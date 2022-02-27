@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the affairs of Ireland, with the particulars of the signal victory obtained by the valiant men of Enneskilling, under the command of Colonel Thomas Lloyd, on the twenty fourth of September, 1689 / in a letter from Holyhead to a friend at London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84181</idno>
+            <idno type="STC">Wing E3564A</idno>
+            <idno type="STC">ESTC R176804</idno>
+            <idno type="EEBO-CITATION">45578370</idno>
+            <idno type="OCLC">ocm 45578370</idno>
+            <idno type="VID">172294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172294)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2952:23, 2624:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the affairs of Ireland, with the particulars of the signal victory obtained by the valiant men of Enneskilling, under the command of Colonel Thomas Lloyd, on the twenty fourth of September, 1689 / in a letter from Holyhead to a friend at London.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin in the Old-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Christ Church (University of Oxford) Library (reel 2624:11) and British Library (reel 2952:23).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lloyd, Thomas, --  Colonel.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:172294:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT Of the Affairs of IRELAND, With the Particulars of the SIGNAL VICTORY Obtained by the VALIANT MEN of ENNESKILLING, Under the Command of Colonel THOMAS LLOYD, On the Twenty fourth of <hi>September,</hi> 1689</head>
+            <head type="sub">In a Letter from <hi>Holyhead</hi> to a Friend at <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>JUſt now here is Arrived a Gentleman from his Grace Duke <hi>Schomberg,</hi> who left the Camp on <hi>Satturday</hi> laſt, being the 28th of <hi>September,</hi> and Embarked on Board the <hi>Fanfan,</hi> a ſmall Ship of his Majeſties, of Six Guns, Captain <hi>Pottinger</hi> Commander, a Valiant Man; he arrived ſafe at <hi>Hollyhead</hi> on <hi>Monday</hi> Morning, and brings this Account, That he left the Army in very good heart, and that he did not know Twenty Sick men in the Camp, and that they were full of Courage, and willing to Fight the Enemy whenever the General thought fit to command them to fall on, and that they were Encamped very near the <hi>Iriſh</hi> Army; that the Scouts did ſometimes meet each other, his Grace the Duke of <hi>Schomberg</hi> quartering in my Lady <hi>Dungannon</hi>'s Houſe, and moſt of the Officers in the Town of <hi>Dundalk.</hi> The Artillery is arrived ſafely in the Camp, and Commiſſary <hi>Shales</hi> with the reſt of the Stores and Proviſions; ſo that now all things are very plenty in the Army, having two Months Bread beforehand, and all neceſſaries. My Lord <hi>Hewet</hi>'s and Collonel <hi>Villar</hi>'s Regiments of Horſe are ſafe there, ſo that they only waited for Sir <hi>John Lanier</hi>'s, Colonel <hi>Langſton</hi>'s Horſe, and Colonel <hi>Heyford</hi>'s Dragoons, and the <hi>Danes</hi> which they daily expected, the Winds having proved very fair this Four days, and then they did not queſtion but with Gods aſſiſtance to give a good Account of the <hi>Iriſh</hi> Army, and to take <hi>Dublin</hi> for Winter Quarters. Thoſe of the <hi>Iriſh</hi> Army that dare be ſo bold as
+<pb facs="tcp:172294:2"/>to ſee what poſture the <hi>Engliſh</hi> are in, are commonly made to retire faſter then they come on, often paying dear for their raſhneſs. He likewiſe gives an Account of a wonderful Victory obtained by the <hi>Inniskilling</hi> Men, under the Command of that Renowned Champion Colonel <hi>Thomas Lloyd,</hi> who have ſo often tryed their <hi>Iriſh</hi> Mettal, and finding it to be of ſo baſe an Allay, fears not to meet them upon any terms. For the <hi>Iriſh</hi> underſtanding that the <hi>Inniskilling</hi> Men having joyn'd the Royal Army with Seventeen Troops of Horſe, One Regiment of Dragoons, and two Regi<g ref="char:EOLhyphen"/>ments of Foot, and having likewiſe ſent a Body of Men to Garriſon <hi>Sligo</hi> which they had ſo Cowardly deſerted upon the laſt Defeat, thought now they had them ſecure; whereupon there was a Detachment drawn out of Five Thouſand under the Command of Colonel <hi>O Kelly,</hi> who not only intended to make a prey of this remnant of Brave men, but thereby to ſecure all the Cattle of that part of the Countrey for the Late King <hi>James</hi>'s uſe. And accordingly having marched as far as <hi>Boyle,</hi> in order to proſecute their Deſign, which the <hi>Enniskilling</hi> Men ſcorning to be abridged of their Liberty, reſolved to give them the meeting; and there<g ref="char:EOLhyphen"/>upon drew out their whole Force, and marched twenty Miles to find them out and fight them, knowing that all Victory is to be attributed to God alone, and that he is able to ſave by a few. Now <hi>Boyle</hi> is a Place ſtrongly ſituate, and the <hi>Iriſh</hi> Army were advantageouſly poſted, yet Co<g ref="char:EOLhyphen"/>lonel <hi>Lloyd,</hi> and the reſt of the Officers drew up their men in ſuch good Order, and being ſuch extrordinary Marks-Men, that not a man in ten miſſes his man, fell on with that Courage, that after the Slaughter of between ſeven or eight hundred of the Enemy, with the Loſs of the <hi>Iriſh</hi> General <hi>O Kelly,</hi> the reſt began to run, ſo that our Army had the Purſuit of them for five or ſix Miles, taking three or four hundred Priſoners, with three Colonels more, to wit, Colonel <hi>Dillon,</hi> my Lady <hi>Tyrconnel</hi>'s Son-in-law, Colonel <hi>Boark,</hi> Colonel <hi>Ferall.</hi> This great Victory was obtained with the loſs of very few men on our ſide; and thereby we have got a vaſt Boo<g ref="char:EOLhyphen"/>ty of Cattel, as is believed, eight or nine hundred Head of black Cattel, and a whole Country at our Command. The General was very well plea<g ref="char:EOLhyphen"/>ſed, and rewarded the Gentleman that brought him the News, and was in the Action. This Battel was fought the 24th. of this laſt Month: Our Men were not above five hundred when we began the Fight. He alſo gives account by Deſerters, that at <hi>Dublin</hi> there is a Proclamation pro<g ref="char:EOLhyphen"/>hibiting the Importation of <hi>Engliſh</hi> and <hi>Scotch</hi> Coal, and that <hi>Dublin</hi> Streets were peſtered with Turf, as it uſed to be with Butter-milk. Thoſe Boats that uſed to go for <hi>Wickloe,</hi> many of them by that means tranſporting Proteſtants, the reſt were ordered to be drawn up, and none ſuffered to paſs; that the Commiſſioners of the Revenue have been fully imployed in ſetting Leaſes, and reſtoring to the old Popiſh Proprietors, very good Bargains being to be had, Land being ſold at Sixpence an Acre, and at three years purchaſe, if ready money be paid down for it, with a Pro<g ref="char:EOLhyphen"/>miſe of better Penyworths to their Souldiers in <hi>England</hi> when conquered.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Baily.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
